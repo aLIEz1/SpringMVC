@@ -1,3 +1,4 @@
 # Project exclude paths
 /out/
 /SpringMVC-Hello/target/
+SpringMVC-Hello/src/test/

@@ -11,6 +11,7 @@
     <modules>
         <module>SpringMVC-Hello</module>
         <module>SpringMVC-Annotation</module>
+        <module>SpringMVC-JSON</module>
     </modules>
     <dependencies>
 
